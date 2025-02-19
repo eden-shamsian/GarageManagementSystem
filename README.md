@@ -1,4 +1,4 @@
-# GarageManagementSystem
+# Garage Management System
 
 ## About the Project
 This project is a garage management system developed in C#, following object-oriented programming principles. It is designed to manage different types of vehicles and their attributes efficiently.
@@ -25,7 +25,7 @@ The system allows users to:
 - Inflate tires
 - Refuel or recharge vehicles
 - Retrieve detailed vehicle information
-- 
+  
 ## The project consists of two main components:
 GarageLogic (DLL) – Contains the business logic.
 ConsoleUI (EXE) – Implements the user interface.
