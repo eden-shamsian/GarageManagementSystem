@@ -11,6 +11,21 @@ DLL (Class Library)
 Console Application
 Project Structure
 
+## Vehicle Types Managed
+The system supports multiple vehicle types, including:
+- Regular and electric motorcycles
+- Regular and electric cars
+- Trucks
+Each vehicle type has specific attributes, such as fuel type, battery status, number of wheels, and additional unique properties.
+
+## Features
+The system allows users to:
+- Add and manage vehicles in the garage
+- Update vehicle status
+- Inflate tires
+- Refuel or recharge vehicles
+- Retrieve detailed vehicle information
+- 
 ## The project consists of two main components:
 GarageLogic (DLL) – Contains the business logic.
 ConsoleUI (EXE) – Implements the user interface.
